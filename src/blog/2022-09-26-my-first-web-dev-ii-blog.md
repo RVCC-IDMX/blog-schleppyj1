@@ -36,3 +36,23 @@ P﻿oem Title: If-
 P﻿oem by: Rudyard Kipling
 
 <!--EndFragment-->
+
+<span style="font-size: 32px;">CSS IS AWESOME</span>
+
+```html 
+<div class="box">
+ CSS IS AWESOME
+ </div>
+
+```
+
+
+```css
+.box {
+  font-size: 64px;
+  border: 4px solid black;
+  padding: 0px 3px;
+  width: 223px;
+}
+
+```
