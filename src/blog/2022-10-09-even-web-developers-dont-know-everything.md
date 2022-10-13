@@ -13,11 +13,11 @@ During the course of my Web Development 2 class, I have recently learned that it
 
 One instance where I encountered something I did not know was when I had to deploy my poem site to Netlify. In the assignment, I had to take the webpage I created with the poem, (“*Hope is the Thing with Feathers”* by *Emily Dickinson*) and deploy it to Netlify so that it could be viewable to the public. I only had familiar knowledge with CSS and HTML, so I went and edited the code in the CSS file.
 
-![Main.Css File]("/Users/jschl/Pictures/Saved Pictures/CSS-Poem-Page.png" "Main.CSS file")
+![Main.Css File](/assets/blog/css-poem-page.png "Main.CSS file")
 
 However, the problem I came across was when I tried to commit my changes to GitHub. Since the main.css file was under the public folder, it was not able to push the changes to GitHub, because GitHub was looking for changes made under the src folder.
 
-![Src Folder]("/Users/jschl/Pictures/Saved Pictures/Poem-Page-src.png" "Src Folder")
+![Src Folder](/assets/blog/poem-page-src.png "Src Folder")
 
 Because I could not figure out why my changes would not get committed to GitHub, I created extra work for myself by creating another main.css file in the src folder so that my changes would get committed.
 
